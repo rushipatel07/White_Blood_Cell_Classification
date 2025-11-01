@@ -8,6 +8,10 @@
 
 A deep learning project implementing a Convolutional Neural Network (CNN) for automated classification of white blood cells from microscopic images, achieving 95% accuracy across five cell types.
 
+## Rushi Patel (12202120601038)
+## Tanish Patel (12202120601048)
+## Vivek chanchlani (12202120601060)
+
 
 ## 🛠️ Technologies Used
 
